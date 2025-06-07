@@ -1,12 +1,6 @@
 <div align="center">
 <h3 align="center">DashGo - Admin DashBoard</h3>
-      <img src="src/assets/Dash.png" alt="Project Banner">
-      <br>
-      <img src="src/assets/Dark.png" alt="Project Banner">
-      <br/>
-      <img src="src/assets/Kan.png" alt="Project Banner">
-  <br />
-
+     
   <!-- <div>
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div> -->
